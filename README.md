@@ -5,7 +5,11 @@
     - Dimensionality reduction (feature selection, feature extraction, linear algebra methods, projection methods, autoencoders. etc.).
     - Clustering (Hierarchical clustering, spatial clustering, K-means. etc.).
     - Classifying data (KNN, neural networks. etc.).
-4. 
+
+## High dimensionality problems
+- Too many features means a larger model and slower learning phase.
+- the more dimensions we have, the wider the search space becomes and slows the search task. The data we have often represent a small and non-representative sample of that space. 
+- [Curse of dimensionality.](https://en.wikipedia.org/wiki/Curse_of_dimensionality)
 
   
 
