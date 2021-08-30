@@ -20,7 +20,7 @@ Using scoring or statistical methods to remove irrelevant features that do not h
 ### 2. Matrix factorization ([for more](https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/))
 Using linear algebra for dimensionality reduction. Matrix factorization methods can be used to reduce a dataset matrix into its constituent parts.
 - eagendecomposition.
-- Singular value decomposition.
+- Singular value decomposition.  
 Best algorithm for ranking those components (matrix parts) is Principal components analysis algorithm (PCA). ([Coding PCA from scratch using python](https://machinelearningmastery.com/calculate-principal-component-analysis-scratch-python/))
 ### 3. Manifold learning
 Using high-dimensionality statistical methods, These techniques are sometimes referred to as “manifold learning” and are used to create a low-dimensional projection of high-dimensional data, often for the purposes of data visualization.  
